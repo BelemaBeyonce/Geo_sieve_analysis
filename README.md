@@ -14,8 +14,6 @@ This project is a simple Streamlit app that performs and visualizes sieve analys
 - Pandas
 - Matplotlib / Plotly
 
-### 📊 Sample Output
-*Insert screenshot or link to demo if deployed*
 
 ### 🚀 How to Run
 ```bash
